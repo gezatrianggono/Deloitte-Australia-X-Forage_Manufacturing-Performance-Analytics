@@ -63,6 +63,5 @@ Daikibo Berlin has successfully managed its thermodynamic environment, resulting
 ---
 
 ## About This Project & Works Cited
-This repository contains solutions to Deloitte Australia's Data Analytics Job Simulation on Forage. It features Tableau dashboards for machine downtime analysis and Excel-based gender pay equality classification with step-by-step documentation.
+This repository contains solutions to Deloitte Australia's Data Analytics Job Simulation on Forage. It features Tableau dashboards for machine downtime analysis with step-by-step documentation.
 
-* **Source
